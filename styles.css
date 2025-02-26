@@ -1,0 +1,163 @@
+title{
+    background-color: rgb(241, 188, 124);
+    width: 200px;
+}
+
+body{
+    background-color: beige;
+}
+
+/* ------------------------------------------------------------------------------ */
+/* Modificaciones ejercicio.html5 */
+.container{
+    background-color: rgb(247, 138, 138);
+    width: 12%;
+    border-radius: 8px;
+    position: relative;
+    left: 300px;
+}
+
+.container.hijo{
+    width: 400px;
+}
+.img {
+    width: 200px;
+}
+
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+/* -------------------------------------------------------------------------------------------- */
+/* Modificaciones ejercicio6.html */
+.img{
+    width: 120px;
+}
+
+.img2{
+    width: 200px;
+}
+
+/* ------------------------------------------------------------------------------ */
+/* Modificaciones ejercicio7.html */
+.containersito{
+    background-color: rgb(13, 229, 157);
+    width: 520px;
+    height: 150px;
+    position: relative;
+    left: 35%;
+    border-radius: 8px;
+    padding-top: 40px;
+    font-family: 'Cambria';
+}
+
+.contenido-menu{
+    background-color: rgb(248, 189, 111);
+    position: relative;
+    margin-top:50px;
+}
+
+.noticias{
+    padding-top: 1px;
+}
+
+#noticiasEco{
+    background-color: rgb(163, 254, 175);
+    height: 190px;
+    margin-top: 200px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#noticiaInternacional{
+    background-color: rgb(141, 242, 142);
+    text-align: center;
+
+}
+
+#noticiaGlobal{
+    background-color: rgb(66, 235, 80);
+    text-align: center;
+}
+
+.inicio-todo{
+    position: absolute;
+    top: 50px;
+    background-color: rgb(160, 160, 150);
+    width: 5%;
+    text-align: center;
+    border-radius: 10px;
+}
+/* -------------------------------------------------------------------------------*/
+/* Ejercicio 12 html */
+
+.perez{
+    width: 300px;
+}
+
+header{
+    position: fixed;
+    right: 1200px;
+}
+
+.contenedor-pastelera{
+    position: fixed;
+    top: 400px;
+}
+
+article{
+    text-align: center;
+    font-size: 14px;
+    position: fixed;
+    bottom: 8px;
+    padding-left: 30px;
+    width: 100%;
+}
+
+.contenedor-pastelera{
+    background-color: blanchedalmond;
+    width: 300px;
+    border-radius: 8px;
+}
+
+footer{
+    background-color: rgb(251, 206, 152);
+    position: fixed;
+    top: 700px;
+    right: 100px;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+}
+/* ------------------------------------------------------------------------------ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
