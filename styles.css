@@ -11,8 +11,8 @@ body{
 /* Modificaciones ejercicio.html5 */
 .container{
     background-color: rgb(247, 138, 138);
-    width: 12%;
-    border-radius: 8px;
+    width: 20%;
+    border-radius: 10px;
     position: relative;
     left: 300px;
 }
@@ -20,17 +20,22 @@ body{
 .container.hijo{
     width: 400px;
 }
-.img {
+
+.hijo{
+    width: 100px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.img2{
     width: 200px;
+    padding-left: 10px;
 }
 
-p{
-    text-align: center;
+h3{
+    padding-left: 10px;
 }
 
-h1{
-    text-align: center;
-}
 /* -------------------------------------------------------------------------------------------- */
 /* Modificaciones ejercicio6.html */
 .img{
